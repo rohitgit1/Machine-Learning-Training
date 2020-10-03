@@ -1,4 +1,9 @@
 # Machine Learning Training 
+
+## Study Material Machine Learning
+
+* [Study Material](https://drive.google.com/file/d/1nIfronvk1Izdk9OUIXMMHwYmy69_n-eS/view?usp=sharing)
+
 ## Internshala Summer Trainings
 
 Learned Machine Learning from scratch and take the first step towards AI with Six-week certified training powered by Analytics Vidhya
